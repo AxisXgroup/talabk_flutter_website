@@ -91,7 +91,8 @@ body.theme-dark {
   color: #FFF;
 }
 .header .logo {
-  max-height: 30px;
+  max-height: 50px;
+  width: 100px;
 }
 .placeholder {
   block-size: 0.825rem;
